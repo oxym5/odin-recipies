@@ -1,0 +1,1 @@
+in this project i created a recipe website that you can go in and select one of three recipes. in this project i learned how to use images, how to use ordered and unorderd lists, along with how to link different files together even if their in different directories. i also worked on how to structure a website and got better with using git commands, and terminal commands.
