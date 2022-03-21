@@ -3,19 +3,19 @@
 
 }
 
-.navigation{
+.nav-list{
     text-align: center;
     color: white;
     font-size: 20px;
 
 }
 
-ul li,
+.navigation li ,
 a {
     display: inline-block;
     background-color: white; 
 }
-ul li,
+.navigation li,
 .title{
     border: 2px solid white;
     color: white;
@@ -31,8 +31,30 @@ ul li,
 
 }
 
+.title.recipe{
+    width: 600px;
+}
+
 .header{
-    display: inline-block;
+    display: flex;
+}
+
+img{
+    height: auto;
+    width: 500px;
+    margin-top: 15px
+}
+
+h2,
+h3{
+    color: white;
+    font-style: italic;
+}
+
+p,
+ul,
+ol{
+    color: silver;
 }
 
 /* add the hover feature to the links, and give the links a back ground color of grey/silver
