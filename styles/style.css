@@ -1,0 +1,39 @@
+* {
+    background-color: #1f1a24;
+
+}
+
+.navigation{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+
+}
+
+ul li,
+a {
+    display: inline-block;
+    background-color: white; 
+}
+ul li,
+.title{
+    border: 2px solid white;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+}
+
+.title{
+    font-size: 50px;
+    font-weight: bold;
+    width: 400px; 
+
+}
+
+.header{
+    display: inline-block;
+}
+
+/* add the hover feature to the links, and give the links a back ground color of grey/silver
+when they're in the hover state. */
